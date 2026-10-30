@@ -64,5 +64,122 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-attestroom-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://attestroom.com/
+Attestroom provides free policy-building tools for small US organizations, allowing them to generate essential written policies such as corporate sustainability, gift acceptance, and more. Its Pro offering tracks who has agreed to each policy version and the dates of agreement, supporting compliance and record‑keeping for small businesses.
+
+**Areas:** Policy Management · Compliance · SaaS · US · Small Business
+
+## attestroom-com on APIs.io
+
+Everything profiled for attestroom-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/attestroom-com/](https://apis.io/providers/attestroom-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Attestroom API](https://apis.io/apis/attestroom-com/attestroom-api/)
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Attestroom Com Agentic Access](https://apis.io/agentic-access/attestroom-com/attestroom-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [attestroom-com API Rules](https://apis.io/rules/attestroom-com/attestroom-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Attestroom Com Authentication](https://apis.io/security/attestroom-com/attestroom-com-authentication/)
+- [Attestroom Com Domain Security](https://apis.io/security/attestroom-com/attestroom-com-domain-security/)
+- [Attestroom Com Vulnerability Disclosure](https://apis.io/security/attestroom-com/attestroom-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Attestroom Com Scopes](https://apis.io/scopes/attestroom-com/attestroom-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Attestroom Com Plans Pricing](https://apis.io/plans/attestroom-com/attestroom-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Attestroom Com Rate Limits](https://apis.io/rate-limits/attestroom-com/attestroom-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://attestroom.com/)
+- [Pricing](https://attestroom.com/pricing/)
+- [Support](https://attestroom.com/contact/)
+- [Security](https://attestroom.com/terms)
+- [Terms of service](https://attestroom.com/terms/)
+- [Privacy policy](https://attestroom.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 41.7** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 29.5 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 50.5 |
+
+**Agent readiness 21.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 40.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/attestroom-com/](https://apis.io/providers/attestroom-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for attestroom-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/attestroom-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
